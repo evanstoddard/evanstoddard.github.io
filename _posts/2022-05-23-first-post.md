@@ -15,12 +15,12 @@ int main()
 	std::cout << "Howdy!" << std::endl;
 }
 ```
+<span></span>
+## What to Expect?
 
 So where do I go from here?  Well I created this site to *try* keeping me accountable towards working on personal projects.  I also wanted to improve my skills in writing and content creation.
 
-## What to Expect?
-
-Well, there's going to be all sorts of stuff.  I've got plenty of ideas for personal projects.  I'm hoping to treat some projects as an on going series.  Those series will have status updates, posts about frustrations with that project, major break throughs, and technical write ups.  There will, of course, be links to source code and resources that are created throughout the project.
+There's going to be all sorts of stuff.  I've got plenty of ideas for personal projects.  I'm hoping to treat some projects as an on going series.  Those series will have status updates, posts about frustrations with that project, major break throughs, and technical write ups.  There will, of course, be links to source code and resources that are created throughout the project.
 
 There will hopefully be posts about things that I learn.  Hopefully there are things that I become an *expert* on can can share that knowledge with the world.
 

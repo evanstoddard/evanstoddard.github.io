@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-23T01:35:49-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Evan Stoddard</title><subtitle>Embedded Engineer | Nashville, TN</subtitle><author><name>Evan Stoddard</name></author><entry><title type="html">Howdy!</title><link href="http://localhost:4000/2022/05/23/first-post.html" rel="alternate" type="text/html" title="Howdy!" /><published>2022-05-23T00:58:00-05:00</published><updated>2022-05-23T00:58:00-05:00</updated><id>http://localhost:4000/2022/05/23/first-post</id><content type="html" xml:base="http://localhost:4000/2022/05/23/first-post.html"><![CDATA[<h2 id="here-goes-nothing">Here Goes Nothing</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-23T01:48:51-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Evan Stoddard</title><subtitle>Embedded Engineer | Nashville, TN</subtitle><author><name>Evan Stoddard</name></author><entry><title type="html">Howdy!</title><link href="http://localhost:4000/2022/05/23/first-post.html" rel="alternate" type="text/html" title="Howdy!" /><published>2022-05-23T00:58:00-05:00</published><updated>2022-05-23T00:58:00-05:00</updated><id>http://localhost:4000/2022/05/23/first-post</id><content type="html" xml:base="http://localhost:4000/2022/05/23/first-post.html"><![CDATA[<h2 id="here-goes-nothing">Here Goes Nothing</h2>
 
 <p>Well, after years of half-built pages and <em>Under Contruction</em> pages, I finally have a site up with a blog.  I wanted to have a trendy portfolio with a cool view of all the projects I’ve worked on, but I realized that wasn’t what I wanted.  I also, quite frankly, didn’t have any projects to show.  So those sites would never look right.  I was trying to impress people that I didn’t need to impress.  Honestly, they never would be impressed by anything I’ve done since nothing was ever finished!</p>
 
@@ -8,12 +8,12 @@
 	<span class="n">std</span><span class="o">::</span><span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"Howdy!"</span> <span class="o">&lt;&lt;</span> <span class="n">std</span><span class="o">::</span><span class="n">endl</span><span class="p">;</span>
 <span class="p">}</span>
 </code></pre></div></div>
+<p><span></span></p>
+<h2 id="what-to-expect">What to Expect?</h2>
 
 <p>So where do I go from here?  Well I created this site to <em>try</em> keeping me accountable towards working on personal projects.  I also wanted to improve my skills in writing and content creation.</p>
 
-<h2 id="what-to-expect">What to Expect?</h2>
-
-<p>Well, there’s going to be all sorts of stuff.  I’ve got plenty of ideas for personal projects.  I’m hoping to treat some projects as an on going series.  Those series will have status updates, posts about frustrations with that project, major break throughs, and technical write ups.  There will, of course, be links to source code and resources that are created throughout the project.</p>
+<p>There’s going to be all sorts of stuff.  I’ve got plenty of ideas for personal projects.  I’m hoping to treat some projects as an on going series.  Those series will have status updates, posts about frustrations with that project, major break throughs, and technical write ups.  There will, of course, be links to source code and resources that are created throughout the project.</p>
 
 <p>There will hopefully be posts about things that I learn.  Hopefully there are things that I become an <em>expert</em> on can can share that knowledge with the world.</p>
 
