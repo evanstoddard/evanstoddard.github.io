@@ -2516,7 +2516,7 @@ header.masthead .post-heading .meta a { color: #fff; }
 
 @media only screen and (min-width: 768px) { .post-preview > a > .post-title { font-size: 36px; } }
 
-.highlight { background-color: #4e4e4e; border-radius: 3px; padding: 3px; }
+.highlight { background-color: #4e4e4e; border-radius: 3px; padding: 3px; overflow: scroll; }
 
 .highlight .hll { background-color: #49483e; border-radius: 3px; }
 
