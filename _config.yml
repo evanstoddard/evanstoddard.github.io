@@ -14,7 +14,15 @@ linkedin_username: evan-stoddard
 # google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-markdown:           kramdown
+markdown: kramdown
+highlighter: rouge
+
+# Markdown Processors
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
