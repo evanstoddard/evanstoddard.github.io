@@ -1,16 +1,14 @@
 title:              Evan Stoddard
 email:              evan.stoddard@me.com
-description:        A collection of my workings.
+description:        Embedded Engineer | Nashville, TN
 author:             Evan Stoddard
 baseurl:            "/"
 url:                "https://evanstoddard.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:
-linkedin_username:
+github_username:    evanstoddard
+instagram_username: evanrstoddard
+linkedin_username: evan-stoddard
 
 # Add your google-analytics ID here to activate google analytics
 # google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
@@ -22,4 +20,4 @@ paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap
