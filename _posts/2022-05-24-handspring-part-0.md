@@ -3,7 +3,7 @@ layout: post
 title: "Modern Handspring VisorPhone - Part 0"
 subtitle: "Creating a modern cellular Springboard."
 date: 2022-05-23 18:43:00 0
-background: "img/posts/handspring/part_0/IMG_4931.jpeg"
+background: "/img/posts/handspring/part_0/IMG_4931.jpeg"
 ---
 
 ## A Kid's Fascination with Palm
