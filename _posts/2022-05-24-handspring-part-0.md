@@ -39,10 +39,12 @@ LTE modems are getting cheaper and cheaper and the 16 MHz clock speed of the 68k
 
 ## What's Next?
 
-This is a project that will certainly stretch my capabilities in firmware, embedded software, and oard bringup.  As evident by the "Part 0" portion of the title, this will be a multi-part series.  We'll hopefully gain in intimated understading of the Visor hardware and operating system.  Hopefully, we'll learn new skills along the way and gain a greater appreciation for the small team of engineers that worked on this great device.
+This is a project that will certainly stretch my capabilities in firmware, embedded software, and board bringup.  As evident by the "Part 0" portion of the title, this will be a multi-part series.  We'll hopefully gain in intimate understading of the Visor hardware and operating system.  Hopefully, we'll learn new skills along the way and gain a greater appreciation for the small team of engineers that worked on this great device.
 
 I'm excited to go on this journey and hopefully bring you along with me!
 
 *- Evan*
 
 ## Links to Articles in this Series
+
+- <a href="https://evanstoddard.github.io/2022/05/23/handspring-part-0.html">Modern Handspring VisorPhone - Part 0</a>
