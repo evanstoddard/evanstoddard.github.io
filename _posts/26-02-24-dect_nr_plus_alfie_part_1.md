@@ -133,3 +133,5 @@ Last, there are the lower layers — the PHY, MAC, and link layer.  These handle
 There is a lot that can be talked about with this project, especially on the DECT NR+ side.  It's an iterative process and a journey to play around with DECT.  There will be plenty of things that are "incorrect" and not optimal, but all things that will be iterated on.
 
 Part 2 focuses on interacting with the DECT PHY on the nRF9151 and implementing a super rudimentary link and MAC layer.
+
+The firmware for this project can be found on [GitHub](https://github.com/evanstoddard/alfie_firmware).

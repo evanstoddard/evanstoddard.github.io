@@ -500,4 +500,6 @@ Now there are clearly some limitations with only having a link layer.  The first
 
 We also have no way to know if the recipient has received our frame and no mechanisms in place for handling that scenario.
 
-This is where the next layer in our DECT stack comes into play and is the topic of Part 3 of this series. 
+This is where the next layer in our DECT stack comes into play and is the topic of Part 3 of this series.
+
+The firmware for this project can be found on [GitHub](https://github.com/evanstoddard/alfie_firmware).
