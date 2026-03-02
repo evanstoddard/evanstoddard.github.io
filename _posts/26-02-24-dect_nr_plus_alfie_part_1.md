@@ -65,6 +65,12 @@ I'm not good at naming things.  I've got two dogs, one is named Alfie.  I though
 ![Alfie, the dog.](/assets/images/26_02_24_alfie_part_1/alfie.jpeg "Alfie. The dog.")
 _Alfie. The dog._
 
+Here's a sneak peek of the end result — an iPad and an iPhone texting each other in airplane mode over BLE and DECT NR+:
+
+<video width="800" autoplay loop muted playsinline>
+  <source src="/assets/images/26_03_01_alfie_part_5/e2e_demo.mp4" type="video/mp4">
+</video>
+
 ## High-Level Alfie Architecture
 
 At its core, the Alfie hardware device and firmware is simply a bridge between DECT NR+ and some other transport layer.  In this iteration, DECT NR+ is the backhaul for the "network" with BLE as the transport for a single "node" on the network.  I refer to the DECT side as the downstream and the BLE side as the upstream.
