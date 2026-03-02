@@ -29,6 +29,16 @@ However, a character in the book was able to create a mesh network, enabling com
 
 Icemageddon, Cyberstorm, and chatting with my boss about DECT NR+ got the gears in my head spinning and armed with some Nordic devkits and some elbow grease, Project Alfie began.
 
+## So What is DECT NR+?
+
+Before we go any further, I should probably explain what DECT NR+ actually is.
+
+DECT NR+ is a wireless standard built on top of 5G NR (New Radio) technology that operates in the license-free 1.9 GHz band.  No cell carrier, no SIM card, no subscription.  Interestingly, DECT actually originated as the standard behind cordless phones back in the 90s.  DECT NR+ is the modern evolution of that, but it's a completely different beast.
+
+The spec was designed with massive IoT in mind — think smart buildings, industrial sensors, that kind of thing.  But it has some properties that make it interesting for what we're doing here.  It offers significantly higher bandwidth and lower latency than something like LoRa — enough throughput to comfortably send text messages, not just tiny sensor readings every few minutes.  The spec also describes mesh networking capabilities, which is what you want for an off-grid communication network.  Nordic's nRF9151 supports DECT NR+, so real silicon exists and we can actually build things with it today.
+
+Now, you might be thinking "so this is just Meshtastic?"  Not quite.  Meshtastic is a great project built on LoRa, and Alfie is not trying to be that.  They have different tradeoffs.  LoRa excels at ultra-long-range, ultra-low-bandwidth communication — you can get messages across miles and miles with very little power.  DECT NR+ trades some of that range for significantly higher bandwidth and lower latency.  In a lot of ways, they could complement each other.
+
 ## The Goal of this Series & A Disclaimer
 
 This series is not a tutorial.  This is a pure brain dump of my thought process and me sharing something I've been hyperfixed on for a bit.  It is also an outlet because my wife didn't want to hear me talk about DECT NR+ anymore.
